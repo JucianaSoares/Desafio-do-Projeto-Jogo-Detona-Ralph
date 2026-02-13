@@ -113,5 +113,6 @@ Este projeto é distribuído sob a licença MIT. Sinta-se livre para usar, modif
 Projeto desenvolvido pelo professor Felipe Aguiar do curso de: Hi Happy front end do Zero da Plataforma de cursos da Dio, com foco em aprendizado de JavaScript, manipulação de DOM e criação de jogos retrô.
 Dei uns ajustes finais para ficar com mais cara de Jogo.
 
----
-
+https://jucianasoares.github.io/Detona-Ralph-Game-/
+link do jogo ☝️
+. Divirta-se.
