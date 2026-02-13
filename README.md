@@ -114,5 +114,5 @@ Projeto desenvolvido pelo professor Felipe Aguiar do curso de: Hi Happy front en
 Dei uns ajustes finais para ficar com mais cara de Jogo.
 
 https://jucianasoares.github.io/Detona-Ralph-Game-/
-link do jogo ☝️
+link do jogo 👈
 . Divirta-se.
